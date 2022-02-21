@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/notion-ohmy-quiz/static/js/main.fc632bcf.js",
-    "index.html": "/notion-ohmy-quiz/index.html",
-    "main.fc632bcf.js.map": "/notion-ohmy-quiz/static/js/main.fc632bcf.js.map"
+    "main.js": "/notion-ohmy/static/js/main.fc632bcf.js",
+    "index.html": "/notion-ohmy/index.html",
+    "main.fc632bcf.js.map": "/notion-ohmy/static/js/main.fc632bcf.js.map"
   },
   "entrypoints": [
     "static/js/main.fc632bcf.js"
